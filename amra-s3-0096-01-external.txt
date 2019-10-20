@@ -1,0 +1,3 @@
+BucketAccessKey : AKIAXXZ3ZZDAYKH76BWA
+
+BucketSecretKey : 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
